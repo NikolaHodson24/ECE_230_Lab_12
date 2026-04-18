@@ -22,4 +22,4 @@ one hot sets
 ### Which method did your team find easier, and why?
 One hot 
 ### In what conditions would you have to use one over the other? Think about resource utilization on the FPGA.
-
+one hot use more wires but less logical operations and binary utilizes less wies but has longer operations per state
