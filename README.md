@@ -14,12 +14,12 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 ## Name
 
 ## Summary
-
+we built two different finite state machines
 ## Lab Questions
 
 ### Compare and contrast One Hot and Binary encodings
 
 ### Which method did your team find easier, and why?
-
+One hot 
 ### In what conditions would you have to use one over the other? Think about resource utilization on the FPGA.
 
