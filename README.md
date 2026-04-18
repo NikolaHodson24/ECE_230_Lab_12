@@ -18,7 +18,7 @@ we built two different finite state machines
 ## Lab Questions
 
 ### Compare and contrast One Hot and Binary encodings
-one hot sets 
+one hot sets each state to eachother whereas binary use a set of logical operations to find the output of each state.
 ### Which method did your team find easier, and why?
 One hot 
 ### In what conditions would you have to use one over the other? Think about resource utilization on the FPGA.
