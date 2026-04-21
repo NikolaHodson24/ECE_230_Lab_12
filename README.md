@@ -12,7 +12,7 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 | Question 3 | Your answers to the question | 25% |
 
 ## Name
-
+Nikola hodson camron bannon
 ## Summary
 we built two different finite state machines
 ## Lab Questions
